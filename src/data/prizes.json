@@ -1,0 +1,26 @@
+[
+  {
+    "id": "prize-1",
+    "contestId": "303-day-2026",
+    "position": 1,
+    "name": "Behringer TD-3 Synthesizer",
+    "subtitle": "1st Place",
+    "description": "The legendary 303 sound — reborn. The Behringer TD-3 is a faithful recreation of the iconic Roland TB-303 bassline synthesizer. Featuring the classic squelchy filter, slide and accent controls, and the unmistakable acid sound that defined a generation."
+  },
+  {
+    "id": "prize-2",
+    "contestId": "303-day-2026",
+    "position": 2,
+    "name": "Audiotool Premium (1 Year)",
+    "subtitle": "2nd Place",
+    "description": "Full year of Audiotool Premium access. Unlimited projects, all premium devices, exclusive sample packs, and priority support."
+  },
+  {
+    "id": "prize-3",
+    "contestId": "303-day-2026",
+    "position": 3,
+    "name": "Acid Sample Pack Bundle",
+    "subtitle": "3rd Place",
+    "description": "Curated bundle of premium acid and 303-style sample packs from leading sound designers."
+  }
+]

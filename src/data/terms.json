@@ -1,0 +1,32 @@
+[
+  {
+    "id": "term-default-1",
+    "text": "By submitting, you confirm that the track is your original work.",
+    "isDefault": true,
+    "order": 1
+  },
+  {
+    "id": "term-default-2",
+    "text": "Audiotool reserves the right to feature winning tracks on official channels.",
+    "isDefault": true,
+    "order": 2
+  },
+  {
+    "id": "term-default-3",
+    "text": "Winners will be contacted within 7 days of contest end.",
+    "isDefault": true,
+    "order": 3
+  },
+  {
+    "id": "term-default-4",
+    "text": "Prizes are non-transferable and have no cash value.",
+    "isDefault": true,
+    "order": 4
+  },
+  {
+    "id": "term-default-5",
+    "text": "Audiotool reserves the right to disqualify entries that violate the rules or terms.",
+    "isDefault": true,
+    "order": 5
+  }
+]

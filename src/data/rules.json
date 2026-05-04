@@ -1,0 +1,38 @@
+[
+  {
+    "id": "rule-default-1",
+    "text": "Track must be created using Audiotool.",
+    "isDefault": true,
+    "order": 1
+  },
+  {
+    "id": "rule-default-2",
+    "text": "All samples used must be properly licensed or original.",
+    "isDefault": true,
+    "order": 2
+  },
+  {
+    "id": "rule-default-3",
+    "text": "One submission per user (unless otherwise specified).",
+    "isDefault": true,
+    "order": 3
+  },
+  {
+    "id": "rule-default-4",
+    "text": "Track must be original work — no copyrighted material without clearance.",
+    "isDefault": true,
+    "order": 4
+  },
+  {
+    "id": "rule-303-1",
+    "text": "Track must prominently feature a 303-style bassline (any device, any DAW).",
+    "isDefault": false,
+    "order": 5
+  },
+  {
+    "id": "rule-303-2",
+    "text": "Track length: between 2 and 8 minutes.",
+    "isDefault": false,
+    "order": 6
+  }
+]

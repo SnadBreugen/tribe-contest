@@ -1,0 +1,30 @@
+[
+  {
+    "id": "judge-1",
+    "name": "DJ Pierre",
+    "title": "Acid House Pioneer",
+    "bio": "Co-founder of Phuture, DJ Pierre is widely credited with creating the acid house sound in 1985 with the seminal track 'Acid Tracks'. A true legend of the genre.",
+    "links": [
+      { "label": "Website", "url": "https://djpierre.com" }
+    ],
+    "isAudiotoolMember": false
+  },
+  {
+    "id": "judge-2",
+    "name": "Aphex Twin",
+    "title": "Producer & Composer",
+    "bio": "Richard D. James, known as Aphex Twin, is one of the most influential electronic music producers of all time. Known for his experimental approach and pioneering use of the 303.",
+    "links": [],
+    "isAudiotoolMember": false
+  },
+  {
+    "id": "judge-3",
+    "name": "Maya Chen",
+    "title": "Producer & Audiotool Curator",
+    "bio": "Berlin-based producer and curator on the Audiotool platform. Specializes in acid techno and modular synthesis.",
+    "links": [
+      { "label": "Audiotool Profile", "url": "https://www.audiotool.com/user/mayachen" }
+    ],
+    "isAudiotoolMember": true
+  }
+]

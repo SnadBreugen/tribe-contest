@@ -1,0 +1,17 @@
+{
+  "id": "303-day-2026",
+  "name": "303 Day Contest",
+  "slug": "303-day",
+  "description": "Celebrate the iconic Roland TB-303 sound. Submit your acid-fueled track using the legendary 303 — original, remix, or wild experiment, anything goes as long as it features that unmistakable squelch.",
+  "bannerUrl": "/tribe-contest/assets/banner-303-day.jpg",
+  "submissionStart": "2026-03-03T00:00:00Z",
+  "submissionEnd": "2026-03-10T23:59:59Z",
+  "votingEnd": "2026-03-15T23:59:59Z",
+  "contestEnd": "2026-03-17T23:59:59Z",
+  "votingMode": "community",
+  "showJurySection": true,
+  "preModeration": false,
+  "maxTracksPerUser": 1,
+  "allowRemixes": true,
+  "tags": ["acid", "303", "techno", "electronic"]
+}

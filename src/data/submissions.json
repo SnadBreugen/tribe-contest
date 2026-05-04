@@ -1,0 +1,86 @@
+[
+  {
+    "id": "sub-1",
+    "contestId": "303-day-2026",
+    "trackTitle": "Acid Rain Sequence",
+    "artistName": "kr0nos",
+    "artistId": "user-current",
+    "trackUrl": "https://www.audiotool.com/track/example1",
+    "submittedAt": "2026-03-04T14:30:00Z",
+    "status": "active"
+  },
+  {
+    "id": "sub-2",
+    "contestId": "303-day-2026",
+    "trackTitle": "303 Reverie",
+    "artistName": "neon_dreams",
+    "artistId": "user-2",
+    "trackUrl": "https://www.audiotool.com/track/example2",
+    "submittedAt": "2026-03-04T16:12:00Z",
+    "status": "active"
+  },
+  {
+    "id": "sub-3",
+    "contestId": "303-day-2026",
+    "trackTitle": "Squelch Symphony",
+    "artistName": "bassbender",
+    "artistId": "user-3",
+    "trackUrl": "https://www.audiotool.com/track/example3",
+    "submittedAt": "2026-03-05T09:45:00Z",
+    "status": "active"
+  },
+  {
+    "id": "sub-4",
+    "contestId": "303-day-2026",
+    "trackTitle": "Filter Cutoff Madness",
+    "artistName": "acidwitch",
+    "artistId": "user-4",
+    "trackUrl": "https://www.audiotool.com/track/example4",
+    "submittedAt": "2026-03-05T18:20:00Z",
+    "status": "active"
+  },
+  {
+    "id": "sub-5",
+    "contestId": "303-day-2026",
+    "trackTitle": "Resonance Trip",
+    "artistName": "modular_minds",
+    "artistId": "user-5",
+    "trackUrl": "https://www.audiotool.com/track/example5",
+    "submittedAt": "2026-03-06T11:05:00Z",
+    "status": "active"
+  },
+  {
+    "id": "sub-6",
+    "contestId": "303-day-2026",
+    "trackTitle": "303 in the Rain",
+    "artistName": "lofi_lord",
+    "artistId": "user-6",
+    "trackUrl": "https://www.audiotool.com/track/example6",
+    "submittedAt": "2026-03-06T22:30:00Z",
+    "status": "active"
+  },
+  {
+    "id": "sub-7",
+    "contestId": "303-day-2026",
+    "trackTitle": "Underground Acid Lab",
+    "artistName": "warehouse_w",
+    "artistId": "user-7",
+    "trackUrl": "https://www.audiotool.com/track/example7",
+    "submittedAt": "2026-03-07T13:15:00Z",
+    "status": "active"
+  },
+  {
+    "id": "sub-8",
+    "contestId": "303-day-2026",
+    "trackTitle": "Copyright Test Track",
+    "artistName": "rule_breaker",
+    "artistId": "user-8",
+    "trackUrl": "https://www.audiotool.com/track/example8",
+    "submittedAt": "2026-03-07T19:00:00Z",
+    "status": "removed",
+    "removalReason": "copyright",
+    "internalNote": "Used uncleared sample from commercial release.",
+    "removedAt": "2026-03-08T10:00:00Z",
+    "removedBy": "admin"
+  }
+]
